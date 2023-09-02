@@ -1,0 +1,12 @@
+12 Creare Programator1 Programator2 open
+14 Modificare Programator1 Programator2 Programator1 inprogress
+16 Stergere Programator1 Programy open
+21 Update1 Programator1 Programator7 inprogress
+48 Update2 Programator1 Programy Programator2 Pro_1 open
+74 Update3 Admin1 Programator7 Programator1 Pro_1 inprogress
+96 Finish Pro_1 Programy closed
+18 Creare2 Programy Programator7 closed
+93 Modificare1 Programator2 open
+52 Stergere1 Programator7 Programator1 Pro_1 inprogress
+17 ascas Ana Banana open
+19 ascas Ana Banana inprogress

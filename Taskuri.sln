@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Taskuri", "Taskuri\Taskuri.vcxproj", "{987BAB2E-F8E9-4C80-8A93-028971B8B505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987BAB2E-F8E9-4C80-8A93-028971B8B505}.Debug|x64.ActiveCfg = Debug|x64
+		{987BAB2E-F8E9-4C80-8A93-028971B8B505}.Debug|x64.Build.0 = Debug|x64
+		{987BAB2E-F8E9-4C80-8A93-028971B8B505}.Release|x64.ActiveCfg = Release|x64
+		{987BAB2E-F8E9-4C80-8A93-028971B8B505}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {532C9F21-7EBC-45D4-923F-6B526C51E36D}
+	EndGlobalSection
+EndGlobal
